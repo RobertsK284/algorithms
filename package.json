@@ -1,0 +1,19 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "description": "Creating algorithms to learn about timing and efficiency",
+  "main": "last.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "jasmine-node": "^1.16.2",
+    "microtime": "^2.1.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "Karen Roberts",
+  "license": "ISC"
+}
