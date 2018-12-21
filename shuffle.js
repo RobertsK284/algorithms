@@ -1,4 +1,3 @@
-// var microtime = require('microtime');
 var Shuffler = require('./src/shuffler');
 var getMedian = require('./getMedian');
 var shuffler = new Shuffler();
